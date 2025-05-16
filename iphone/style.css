@@ -1,0 +1,231 @@
+/* *{
+    padding: 0%;
+    margin: 0%;
+} */
+ body{
+    margin: 0px;
+    padding: 0px;
+ }
+.header{
+    background-color: rgb(174, 180, 182);
+    margin-top: 15px;
+    height: 70px;
+    margin-top: 0%;
+    padding-top: 8px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+li{
+    list-style: none;
+}
+/* section 2 */
+.sectwo{
+    background-color: white;
+    justify-items: center;
+}
+.bone{
+    border: 2px solid blue;
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    width: 130px;
+    height: 40px;
+    font-size: large;
+}
+
+.sectwo>h4{
+    font-size: larger;
+    word-spacing: 5px;
+    font-weight: 700px;
+    
+
+}
+.btwo{
+    border: 2px solid blue;
+    background-color: white;
+    color: blue;
+    border-radius: 25px;
+    width: 130px;
+    height: 40px;
+    font-size: large;
+}
+.btwo:hover{background-color: blue;
+    color: white;
+    border: 1px solid blue;
+
+}
+.sectwo>h5{
+    color: rgb(114, 11, 45);
+    font-size: larger;
+    word-spacing: 16px;
+
+}
+.sectwo>img{
+    height: 500px;
+    width: 900px;
+}
+/* section 3 */
+.secthree{
+    background-color: white;
+    justify-items: center;
+    gap: 5px;
+
+}
+.threeb1{
+    border: 2px solid blue;
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    width: 130px;
+    height: 40px;
+    font-size: large;
+
+}
+.threeb2{
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+    border-radius: 20px;
+    height: 40px;
+    width: 80px;
+    font-size: larger;
+}
+.threeb2:hover{
+    border: 2px solid blue;
+    background-color: blue;
+    color: white;
+}
+/* section 4 */
+.secfour>img{
+    padding-left: 150px;
+    height: 600px;
+    width: 1000px;
+    position: relative;
+    bottom: 0px;
+    left: 35px;
+    padding-top: 10px;
+    
+    
+}
+.secfive{
+    height: 1100px;
+    width: 1000px;
+    background-image: url(secfive\ img.jpeg);
+    background-size: cover;
+    background-position: center;
+    padding-left: 250px;
+    position: relative;
+    bottom: 0px;
+    top: 0px;
+    left: 50px;
+    padding-top: 50px;
+    
+    justify-items: center;
+}
+.secfive>h1{
+    position: relative;
+    top: 1000px;
+    padding-right: 200px;
+    padding-top: 50px;
+}
+.secfive>h3{
+   position: relative;
+    top: 1000px;
+    padding-right: 200px;
+    padding-top: 20px; 
+}
+.sectionsix{
+    justify-content: center;
+    display: flex;
+    gap: 5px;
+    position: relative;
+    top: 150px;
+    box-shadow: 2px 2px 5px 10px white;
+    align-items: center;
+     
+}
+.secsix{
+    background-color: lightblue;
+    padding-left: 40px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    gap: 8px;
+    word-spacing: 3px;
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    border: 10px solid rgb(129, 126, 120);
+    box-shadow: 2px 2px 5px 5px black;
+    height: 500px;
+    width: 600px;
+    align-items: center;
+    
+    
+}
+.bl1{   
+     border: 2px solid blue;
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    width: 130px;
+    height: 40px;
+    font-size: large;
+}
+ .bl2{
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+    border-radius: 20px;
+    height: 40px;
+    width: 80px;
+    font-size: larger;
+}
+.bl2:hover{
+    border: 2px solid blue;
+    background-color: blue;
+    color: white;
+}
+.secsix>img{
+    height: 200px;
+    width: 300px;
+}
+.secsix2{
+    background-color: lightblue;
+    padding-left: 40px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    gap: 8px;
+    word-spacing: 3px;
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    border: 10px solid rgb(129, 126, 120);
+    height: 500px;
+    width: 600px;
+    align-items: center;
+    box-shadow: 2px 2px 5px 5px black;
+}
+.secsix2>img{
+    height: 200px;
+    width: 300px;
+}
+.bl3{   
+    border: 2px solid blue;
+   background-color: blue;
+   color: white;
+   border-radius: 25px;
+   width: 130px;
+   height: 40px;
+   font-size: large;
+   
+}
+.sev{
+    width: 1000px;
+    height: 100px;
+    padding-top: 200px;
+    padding-left: 200px;
+    padding-right: 50px;
+}
